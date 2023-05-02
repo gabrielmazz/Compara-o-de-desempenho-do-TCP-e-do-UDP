@@ -1,5 +1,10 @@
 ## Comparação de desempenho do TCP e UDP
-#### Implementação de clientes e servidores
+
+#### Trabalho de Sistemas Operacionais
+
+> Colaborador: *Gabriel Mazzuco* ([Github Profile](https://github.com/gabrielmazz))
+
+- 3ª ano de Ciências da Computação
 
 ## Introdução
 
