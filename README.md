@@ -2,7 +2,7 @@
 
 #### Trabalho de Sistemas Operacionais
 
-> Colaborador: *Gabriel Mazzuco* ([Github Profile](https://github.com/gabrielmazz))
+> Colaboradores: *Gabriel Mazzuco* ([Github Profile](https://github.com/gabrielmazz)), *Rodrigo Rocha* ([Github Profile](https://github.com/Rodrigo2603))
 
 - 3ª ano de Ciências da Computação
 
